@@ -21,12 +21,17 @@ This program consists of the 'Main' method and 3 other classes- CrapsGame, RollD
 
 The 'CrapsGame' class consists of 2 enum data types and 5 methods, of which are the backbone of the program. This class utilizes the enums to either name special sums of the dice rolled, or contains the status of the game(s) until you are no longer in play. Switches are also used within this class to either evaluate the dice rolls where players will either win or lose on the first roll, or continue playing up to the desired amount of rolls.  
 
-[insert CrapsGame graphics here.]
+![CrapsGame Class](https://github.com/Cruz-S13/Crap-a-Dappa/blob/main/Grafix/02_Class_CrapsGame.jpg)
 
 The 'RollDice' class is used to define the variables Die 1 and Die 2; additionally to call out the method 'DiceRoll' to give each the variables random numbers of the integers 1-6. The player doesn't see what each individual die rolls, but a sum of the two dice.  
 
-[insert RollDice graphics here.]
+![RollDice Class](https://github.com/Cruz-S13/Crap-a-Dappa/blob/main/Grafix/03_Class_RollDice.jpg)
 
 The 'Statistics' class is uses calculations to show players the probability of winning, average length of games played, and wins per round via 4 different methods.
 
-[insert Statistics graphics here.]
+![Statistics Class](https://github.com/Cruz-S13/Crap-a-Dappa/blob/main/Grafix/04_Class_Statistics.jpg)
+
+Thanks again for checking out my project! You can reach me at the following:
+
+[LinkedIn](https://www.linkedin.com/in/johnscruz)
+[Personal Website](https://www.cruz-ctrl.com)
