@@ -17,7 +17,7 @@ Navigate to '[file location]\Crap-A-Dappa\Crap-A-Dappa\bin\Debug\netcoreapp3.1\C
 
 This program consists of the 'Main' method and 3 other classes- CrapsGame, RollDice, and Statistics classes.
 
-[insert Main graphics here.]
+![Main Method](https://github.com/Cruz-S13/Crap-a-Dappa/blob/main/Grafix/01_Main.jpg)
 
 The 'CrapsGame' class consists of 2 enum data types and 5 methods, of which are the backbone of the program. This class utilizes the enums to either name special sums of the dice rolled, or contains the status of the game(s) until you are no longer in play. Switches are also used within this class to either evaluate the dice rolls where players will either win or lose on the first roll, or continue playing up to the desired amount of rolls.  
 
