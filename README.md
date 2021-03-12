@@ -13,7 +13,12 @@ There are two ways in which you can execute my code, either downloading the file
 
 By default, the number of rolls that will be played is 5k. If you would like to roll a lesser number of times after you download the program from my repository, navigate to the following file, '[file location]\Crap-A-Dappa\Crap-A-Dappa\CrapsGame.cs'. Open the file in your favorite editing software and scroll down to line #31, then edit the number of times you would like to roll. Save the file and proceed to the next step.  
 
+![(1)Navigate to the 'CrapsGame' class file, and (2)edit the number of games you would like to play.](https://github.com/Cruz-S13/Crap-a-Dappa/blob/main/Grafix/EditRolls01.jpg)
+
 Navigate to '[file location]\Crap-A-Dappa\Crap-A-Dappa\bin\Debug\netcoreapp3.1\Crap-A-Dappa.exe' and double-click the .exe file. A console window will open up and display the following: Number of games played (depending on your environment, you may only see the last 10 or so games played), and the statistics of the games played. You will see how many wins per round, percentage of chances where you might win, and the average length of a craps game.  
+
+![(3)Navigate to the executable file, double click.](https://github.com/Cruz-S13/Crap-a-Dappa/blob/main/Grafix/Dot_EXE.jpg)
+![(4)When the program is run, a console window will open and provide you with the results of 'x' games, plus the statistics.](https://github.com/Cruz-S13/Crap-a-Dappa/blob/main/Grafix/ShowStats.jpg)
 
 This program consists of the 'Main' method and 3 other classes- CrapsGame, RollDice, and Statistics classes.
 
