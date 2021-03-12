@@ -33,5 +33,5 @@ The 'Statistics' class is uses calculations to show players the probability of w
 
 Thanks again for checking out my project! You can reach me at the following:
 
-[LinkedIn](https://www.linkedin.com/in/johnscruz)
+[LinkedIn](https://www.linkedin.com/in/johnscruz)  
 [Personal Website](https://www.cruz-ctrl.com)
